@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Trading Algorithm</title><desc id="desc">From market signals to measured decisions. Illustrated project cover.</desc>
+<rect width="1200" height="360" rx="20" fill="#101d32"/>
+<path d="M24 359H1176" stroke="#75c9ff" stroke-width="3"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="48" y="42" width="9" height="9" rx="2" fill="#75c9ff"/><text x="69" y="51" fill="#a8b0c7" font-size="11" letter-spacing="2">PYTHON / PAPER-TRADING EXPERIMENT</text>
+<text x="46" y="139" fill="#f5f7fc" font-size="66" font-weight="700" letter-spacing="-3">Trading</text>
+<text x="46" y="207" fill="#f5f7fc" font-size="66" font-weight="700" letter-spacing="-3">Algorithm<tspan fill="#75c9ff">.</tspan></text>
+<text x="49" y="246" fill="#a8b0c7" font-size="16">From market signals to measured decisions.</text>
+<rect x="48" y="283" width="139" height="29" rx="14" fill="#75c9ff" fill-opacity=".09" stroke="#75c9ff" stroke-opacity=".3"/><text x="117" y="302" text-anchor="middle" fill="#75c9ff" font-size="11" font-weight="600">PYTHON</text><rect x="199" y="283" width="139" height="29" rx="14" fill="#75c9ff" fill-opacity=".09" stroke="#75c9ff" stroke-opacity=".3"/><text x="268" y="302" text-anchor="middle" fill="#75c9ff" font-size="11" font-weight="600">ALPACA</text><rect x="350" y="283" width="139" height="29" rx="14" fill="#75c9ff" fill-opacity=".09" stroke="#75c9ff" stroke-opacity=".3"/><text x="419" y="302" text-anchor="middle" fill="#75c9ff" font-size="11" font-weight="600">FLASK</text>
+<rect x="665" y="61" width="482" height="255" rx="14" fill="#0a0e19" fill-opacity=".3" stroke="#75c9ff" stroke-opacity=".23"/>
+<text x="692" y="90" fill="#9aaec9" font-size="11" letter-spacing="2">SIGNAL / SIZE / EXECUTE</text><g stroke="#2c3d58"><path d="M695 140H1115"/><path d="M695 185H1115"/><path d="M695 230H1115"/><path d="M695 275H1115"/></g><path d="M700 247L736 223L773 232L811 180L847 198L883 149L920 167L957 125L994 143L1031 119L1070 130L1111 108" fill="none" stroke="#75c9ff" stroke-width="3"/><g fill="#101d32" stroke="#75c9ff" stroke-width="2"><circle cx="811" cy="180" r="5"/><circle cx="957" cy="125" r="5"/></g><rect x="707" y="280" width="122" height="24" rx="12" fill="#1d364d"/><text x="726" y="296" fill="#75c9ff" font-size="10" letter-spacing="1">PAPER BY DEFAULT</text><text x="959" y="297" fill="#8399b8" font-size="10">ILLUSTRATIVE COVER</text></g></svg>
